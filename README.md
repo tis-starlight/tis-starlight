@@ -16,7 +16,7 @@
 <p align="center">
  <a href="https://github.com/tis-starlight/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/85295120/144732138-c14d4a41-f63c-4e23-b4b5-b97c054e9d8d.png"  height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.artstation.com/tis-starlight" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/85295120/211176040-3467d8a6-8aa3-4348-b129-38da97ff5e4d.png"  height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.youtube.com/@sevenseas-interactive" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/85295120/144732113-320524b6-86df-4c49-bb6d-5f54219d6151.png"  height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://www.youtube.com/@tis-starlight" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/85295120/144732113-320524b6-86df-4c49-bb6d-5f54219d6151.png"  height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 
 <br />
