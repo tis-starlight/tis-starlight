@@ -33,7 +33,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144736690-4029a915-2f0c-4380-abda-ed8e5e0cd213.png" alt="lua" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229933-615708b5-a85d-4083-a8c9-e87d0a7c4843.png" alt="Nasm" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/85295120/144736828-5d90b723-4cbe-4a83-8906-76fe33b7c3e1.png" alt="Go-lang" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735930-b4d39700-ae56-415e-ab4b-e8aed0ddfb04.png" alt="Visual-Studio" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735977-056a090f-ea5c-4e91-aab9-fd993dd3c35f.png" alt="Qt" height="40" style="vertical-align:top; margin:4px">
@@ -62,7 +61,6 @@
   <img src="https://user-images.githubusercontent.com/85295120/144737110-28c49dd4-ae97-4bc2-a6fa-7cf994265a90.png" alt="Handbrake" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735833-88b4cfa8-607e-4788-9f4b-edada0135aa4.png" alt="Atom" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735861-6fa2d612-59a6-4abb-82f9-e146d56210a0.png" alt="Sublime-Text" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/85295120/165229920-51161f23-95e8-4dff-a887-0647a42a653b.png" alt="Vim" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229964-1fe5ce5e-b56e-4541-bfe4-fccacc10c530.png" alt="Notepad++" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735853-9c9af607-6f33-4ff1-9452-5582c4bba1e2.png" alt="Blender" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735906-9779448b-fcac-4427-afb5-8976d17654e9.png" alt="AutoDesk-Maya" height="40" style="vertical-align:top; margin:4px">
@@ -77,9 +75,7 @@
   <img src="https://user-images.githubusercontent.com/85295120/165229908-6f1039e7-f662-419d-8f68-74a1799694a8.jpg" alt="ZBrush" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229980-18526c1a-bbf3-4e75-a5e9-72371eec60dc.png" alt="Rokoko-Studio" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229972-aa60bd6f-d4a2-4489-b197-b3b95282f8dd.png" alt="Packet-Tracer" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://user-images.githubusercontent.com/85295120/144736021-16934851-c6fa-4c7c-937f-64bdbd3d2c96.png" alt="Google-Chrome" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229957-0445e425-d621-4823-973a-2fd17db23e90.png" alt="Tor" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/85295120/165229932-823f4583-7c8d-47a2-bd1a-ff7e552724fa.png" alt="Bluestacks" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144736887-d5958b6b-bd10-4ced-af46-d0b999963f2c.png" alt="MS-Office" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229975-40cbb37f-7a62-4ae6-92d2-acfaffd91adb.jpg" alt="Vmware" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144736863-dc700f97-60b7-47a2-a489-da9a286ff669.png" alt="Cheat-Engine" height="40" style="vertical-align:top; margin:4px">
