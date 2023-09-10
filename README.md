@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=tis-starlight.tis-starlight) 
-[![Github](https://img.shields.io/github/followers/tis-starlight?label=Followers&logo=Github)](https://github.com/tis-starlight)
+<!-- [![Github](https://img.shields.io/github/followers/tis-starlight?label=Followers&logo=Github)](https://github.com/tis-starlight) -->
 
 ## 🎓 I'm a Computer-Science enthusiast and a Game Developer
 - 🕹️ Passionate about C/C++, C#, and assembly programming
