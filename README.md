@@ -11,7 +11,7 @@
 - 🎮 Strives to create unique and unforgettable gaming experiences
 - 🌊 Signs work with a pen name representing love for exploration and adventure
 
-## :email: Find me on:
+## 📧 Find me on:
 
 <p align="center">
  <a href="https://github.com/tis-starlight/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/85295120/144732138-c14d4a41-f63c-4e23-b4b5-b97c054e9d8d.png"  height="40" style="vertical-align:top; margin:4px"> </a>
@@ -92,7 +92,7 @@
 
 <br />
 
-## :trophy: My Github Stats:
+## 🏆 My Github Stats:
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tis-starlight&theme=material-palenight)
