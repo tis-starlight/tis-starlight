@@ -1,9 +1,24 @@
+<!-- https://www.asciiart.eu -->
+<!-- https://readme-typing-svg.herokuapp.com/demo -->
+<!-- Font: Cascadia Mono, Cascadia Code, Fira Code, Jetbrains Mono, Orbitron, Exo 2 || Duration: 5000 ms (default) || Pause: 1000 ms (default) -->
+<!-- 
+------((1))------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&duration=4000&pause=500&color=33FF33&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Computer-Science+enthusiast+..;+..+and+a+Game+Developer.)](https://tis-starlight.github.io)
+------((2))------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=40&duration=4000&pause=500&color=33FF33&center=true&vCenter=true&random=false&width=435&lines=STARLIGHT)](https://tis-starlight.github.io)
+-->
+
+<div align="center">
+<a href="https://tis-starlight.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=435&height=40&lines=Starlight" alt="Typing SVG" /></a>
+</div>
+
+
 ## Hi there 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=tis-starlight.tis-starlight) 
 <!-- [![Github](https://img.shields.io/github/followers/tis-starlight?label=Followers&logo=Github)](https://github.com/tis-starlight) -->
 
-## 🎓 I'm a Computer-Science enthusiast and a Game Developer
+## 🎓 I'm a ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&duration=2500&pause=1000&color=35FAFF&multiline=true&repeat=false&random=false&width=235&height=32&lines=Computer-Science) enthusiast and a ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&duration=2500&pause=1000&color=FFA330&multiline=true&repeat=false&random=false&width=235&height=32&lines=Game+Developer)
 - 🕹️ Passionate about C/C++, C#, and assembly programming
 - 🎨 3D hobbyist pushing boundaries of game design
 - 💻 Experimenting with new game engines and 3D modeling
@@ -48,7 +63,6 @@
   <img src="https://user-images.githubusercontent.com/85295120/144736377-5f545a87-7fdb-4f13-88c1-811d1e32fa05.png" alt="Markdown" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Linux" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229969-461d6847-1907-4304-9ffe-b8512af1b482.jpg" alt="MS-Windows" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/85295120/165229930-bce9c449-dd6f-4906-964d-b37ae021ba2f.png" alt="MS-DOS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144736840-b08389b0-7869-422a-9d5d-7d35fb013816.png" alt="Android" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735672-ac62db21-fa02-4ed2-8b8d-7e58ba0ccadd.png" alt="Adobe-AfterEffect" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/85295120/144735715-59fb3a0b-737d-4b34-b8cf-85bb44c18dcd.png" alt="Adobe-Audition" height="40" style="vertical-align:top; margin:4px">
@@ -59,9 +73,7 @@
    <img src="https://user-images.githubusercontent.com/85295120/144735782-b1732322-3bb2-4339-a4cb-b549fcb58df7.png" alt="Adobe-Premier" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735795-a8e6f9af-08cf-4be1-ae22-32ee56f45636.png" alt="Adobe-MediaEncoder" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144737110-28c49dd4-ae97-4bc2-a6fa-7cf994265a90.png" alt="Handbrake" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/85295120/144735833-88b4cfa8-607e-4788-9f4b-edada0135aa4.png" alt="Atom" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735861-6fa2d612-59a6-4abb-82f9-e146d56210a0.png" alt="Sublime-Text" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/85295120/165229964-1fe5ce5e-b56e-4541-bfe4-fccacc10c530.png" alt="Notepad++" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735853-9c9af607-6f33-4ff1-9452-5582c4bba1e2.png" alt="Blender" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/144735906-9779448b-fcac-4427-afb5-8976d17654e9.png" alt="AutoDesk-Maya" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229938-6f4e14eb-a791-4ed3-83dc-3d922f1fbbbc.png" alt="Daz3D" height="40" style="vertical-align:top; margin:4px">
@@ -87,7 +99,6 @@
   <img src="https://user-images.githubusercontent.com/85295120/165229922-63746f8d-da1e-4d56-8fdd-a246f2ddf0ab.png" alt="7zip" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/85295120/165229960-0a0a984d-45d4-4a5a-8cf4-6c491002223c.png" alt="Steam" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/85295120/211172045-d692a520-10b8-4f69-8526-f2d1fb403c86.png" alt="EPIC-Games" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/85295120/165229963-304ad337-c4ff-46e1-bdbb-2b869f8ae146.jpg" alt="BattleNet" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
