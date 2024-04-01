@@ -20,7 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tis-starlight&color=blue&style=flat&label=PROFILE+VIEWS&base=1200&abbreviated=true)
 
-## 🎓 I'm a ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&duration=2000&pause=3000&color=35FAFF&multiline=true&repeat=true&random=false&width=235&height=32&lines=Computer-Science) enthusiast and a ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&duration=2000&pause=3000&color=FFA330&multiline=true&repeat=true&random=false&width=235&height=32&lines=Game+Developer)
+## 🎓 I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&duration=2000&pause=3000&color=35FAFF&multiline=true&repeat=true&random=false&width=235&height=32&lines=Computer-Science)](#) enthusiast and a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&duration=2000&pause=3000&color=FFA330&multiline=true&repeat=true&random=false&width=235&height=32&lines=Game+Developer)](#)
 - 🕹️ Passionate about C/C++, C#, and assembly programming
 - 🎨 3D hobbyist pushing boundaries of game design
 - 💻 Experimenting with new game engines and 3D modeling
