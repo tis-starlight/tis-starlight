@@ -41,7 +41,11 @@
  &ensp;
   <a href="https://www.youtube.com/@tis-starlight" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/85295120/144732113-320524b6-86df-4c49-bb6d-5f54219d6151.png" width="48" height="48" />
-  </a> 
+  </a>
+  &ensp;
+  <a href="https://linktr.ee/tis.starlight" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/pulsar-gradient/48/linktree.png" width="48" height="48" />
+  </a>
 </div>
 
 
