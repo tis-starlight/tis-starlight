@@ -384,13 +384,12 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://hex-rays.com/beta-program/ida-pro.png" width="48" height="48" alt="HexRays IDA Pro icon" />
+      <img src="https://github.com/user-attachments/assets/030c7b35-bcf0-4574-a1f4-84c5835e4e28" width="48" height="48" alt="HexRays IDA Pro icon" />
      </a>
       <br>HexRays IDA
     </td>
   </tr>
 </table>
-
 
 <br />
 
