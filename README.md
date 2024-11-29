@@ -31,7 +31,7 @@
 ## 📧 Find me on:
 
 <div align="center">
-  <a href="https://github.com/tis-starlight/" target="_blank" rel="noopener noreferrer">
+  <a href="https://tis-starlight.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
   </a>
  &ensp;
