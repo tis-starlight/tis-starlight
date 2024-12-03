@@ -26,7 +26,7 @@
 - 💻 Experimenting with new game engines and 3D modeling
 - 📈 Always learning and growing as a developer
 - 🎮 Strives to create unique and unforgettable gaming experiences
-- 🌊 Signs work with a pen name representing love for exploration and adventure
+- 🌊 Signs work with a alias/pen name representing love for exploration and adventure
 
 ## 📧 Find me on:
 
