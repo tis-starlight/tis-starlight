@@ -214,9 +214,9 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Adobe Premier icon" />
+      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Adobe Premiere icon" />
      </a>
-      <br>Premier
+      <br>Premiere
     </td>
     <td align="center" width="96">
      <a href="#">
