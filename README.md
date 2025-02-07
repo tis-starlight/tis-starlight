@@ -382,13 +382,13 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://github.com/user-attachments/assets/33614f4d-7cd7-4731-9a27-5401165fa373" width="48" height="48" alt="Cheat Engine icon" />
+      <img src="https://github.com/user-attachments/assets/85deb9c8-0144-4865-b208-e2a0b1780ef9" width="48" height="48" alt="Cheat Engine icon" />
      </a>
       <br>Cheat Engine
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://github.com/user-attachments/assets/030c7b35-bcf0-4574-a1f4-84c5835e4e28" width="48" height="48" alt="HexRays IDA Pro icon" />
+      <img src="https://github.com/user-attachments/assets/60be879b-3c54-4a79-bf2d-1f83713c1bc8" width="48" height="48" alt="HexRays IDA Pro icon" />
      </a>
       <br>HexRays IDA
     </td>
