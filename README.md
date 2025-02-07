@@ -320,7 +320,7 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://github.com/user-attachments/assets/1be88ef2-8b61-47b0-82b7-ff4eb4f11da7" width="48" height="48" alt="Marmoset Toolbag icon" />
+      <img src="https://github.com/user-attachments/assets/1be88ef2-8b61-47b0-82b7-ff4eb4f11da7" width="48" height="48" alt="Quixel Bridge icon" />
      </a>
       <br>Quixel Bridge
     </td>
