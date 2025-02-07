@@ -284,7 +284,7 @@
   <tr>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" width="48" height="48" alt="Zbrush icon" />
+      <img src="https://img.icons8.com/?size=100&id=JuqvgPS90gHo&format=png&color=000000" width="48" height="48" alt="Zbrush icon" />
      </a>
       <br>Zbrush
     </td>
@@ -296,7 +296,7 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/autodesk_fusion_macos_bigsur_icon_190367.png" width="48" height="48" alt="Fusion 360 icon" />
+      <img src="https://github.com/user-attachments/assets/12fc961e-8d31-413e-990d-77df14dfca92" width="48" height="48" alt="Fusion 360 icon" />
      </a>
       <br>Fusion 360
     </td>
@@ -320,7 +320,7 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/quixel_bridge_macos_bigsur_icon_189802.png" width="48" height="48" alt="Marmoset Toolbag icon" />
+      <img src="https://github.com/user-attachments/assets/1be88ef2-8b61-47b0-82b7-ff4eb4f11da7" width="48" height="48" alt="Marmoset Toolbag icon" />
      </a>
       <br>Quixel Bridge
     </td>
@@ -382,7 +382,7 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://seeklogo.com/images/C/cheat-engine-logo-4840A2FE20-seeklogo.com.png" width="48" height="48" alt="Cheat Engine icon" />
+      <img src="https://github.com/user-attachments/assets/33614f4d-7cd7-4731-9a27-5401165fa373" width="48" height="48" alt="Cheat Engine icon" />
      </a>
       <br>Cheat Engine
     </td>
