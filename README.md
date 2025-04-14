@@ -12,17 +12,15 @@
 <a href="https://tis-starlight.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=435&height=40&lines=Starlight" alt="Typing SVG" /></a>
 </div>
 
-
 ## Hi there 👋
 
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=tis-starlight.tis-starlight) -->
 <!-- [![Github](https://img.shields.io/github/followers/tis-starlight?label=Followers&logo=Github)](https://github.com/tis-starlight) -->
 
 [![](https://komarev.com/ghpvc/?username=tis-starlight&color=blue&style=flat&label=PROFILE+VIEWS&base=1200&abbreviated=true)](#)
 
 ## 🎓 I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&duration=2000&pause=3000&color=35FAFF&multiline=true&repeat=true&random=false&width=235&height=32&lines=Computer-Science)](#) enthusiast and a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&duration=2000&pause=3000&color=FFA330&multiline=true&repeat=true&random=false&width=235&height=32&lines=Game+Developer)](#)
 - 🕹️ Passionate about C/C++, C#, and assembly programming
-- 🎨 3D artist pushing boundaries of game design
+- 🎨 Digital artist pushing boundaries of game design
 - 💻 Experimenting with new game engines and 3D modeling
 - 📈 Always learning and growing as a developer
 - 🎮 Strives to create unique and unforgettable gaming experiences
@@ -48,11 +46,7 @@
   </a>
 </div>
 
-
-
-
-
-<br />
+<br>
 
 ## 🧰 Languages, Tools & Technology:
 
@@ -302,7 +296,7 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://www.rizom-lab.com/wordpress/wp-content/uploads/2017/04/logo_vs_w.png" width="55" height="55" alt="RizomUV icon" />
+      <img src="https://github.com/user-attachments/assets/255ac87f-298b-457e-bcbf-17b1e10b7e16" width="55" height="55" alt="RizomUV icon" />
      </a>
       <br>RizomUV
     </td>
@@ -395,13 +389,10 @@
   </tr>
 </table>
 
-<br />
+<br>
 
 ## 🏆 My Github Stats:
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tis-starlight&theme=material-palenight)
--->
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=tis-starlight&theme=material-palenight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=tis-starlight&count_private=true&show_icons=true&theme=material-palenight" />
