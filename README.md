@@ -270,7 +270,7 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Autodesk-Maya-icon.png" width="48" height="48" alt="Maya icon" />
+      <img src="https://github.com/user-attachments/assets/2e3c0ae1-ddbf-4d8c-a47d-a7f25c548f85" width="64" height="64" alt="Maya icon" />
      </a>
       <br>Maya
     </td>
@@ -284,7 +284,7 @@
     </td>
     <td align="center" width="96">
      <a href="#">
-      <img src="https://www.plasticity.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_256x256.09a58ec3.png&w=256&q=75" width="48" height="48" alt="Plasticity CAD icon" />
+      <img src="https://github.com/user-attachments/assets/daa4afd3-4d6b-463f-9b77-947b5b7f19ac" width="64" height="64" alt="Plasticity CAD icon" />
      </a>
       <br>Plasticity
     </td>
@@ -391,6 +391,8 @@
 
 <br>
 
+<!--
+
 ## 🏆 My Github Stats:
 
 <div>
@@ -401,3 +403,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tis-starlight&theme=material-palenight" />
 </a>
 </div>
+
+-->
